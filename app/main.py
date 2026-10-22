@@ -3,7 +3,7 @@ from fastapi import FastAPI
 
 app = FastAPI(
     title="StudyFlow API",
-    description="A study task management API",
+    description="A study task management API and Health Monitor",
     version="0.1.0",
 )
 
